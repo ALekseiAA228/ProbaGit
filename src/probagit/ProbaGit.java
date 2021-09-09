@@ -16,6 +16,7 @@ public class ProbaGit {
      */
     public static void main(String[] args) {
         System.out.println("first prob");
+        System.out.println("second prob");
         // TODO code application logic here
     }
     
