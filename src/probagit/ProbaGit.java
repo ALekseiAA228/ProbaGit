@@ -18,6 +18,7 @@ public class ProbaGit {
         System.out.println("first prob");
         System.out.println("second prob");
         System.out.println("thirt prob");
+        System.out.println("4 version");
         // TODO code application logic here
     }
     
